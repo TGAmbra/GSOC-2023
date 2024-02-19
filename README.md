@@ -1,6 +1,6 @@
 # GSOC-Keras
 
-This repo containais 2 notebooks to replicate the results from the paper "Learning to generate 3d shapes from a single example"[1].
+This repo contains 2 notebooks to replicate the results from the paper "Learning to generate 3d shapes from a single example"[1].
 * GSOCKeras_tutorial : shows the work with 1 training scale
 * GSOC-MultiG_Keras_tutorial : shows the work with multiple training training scales
 
